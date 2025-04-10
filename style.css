@@ -1,32 +1,24 @@
+/* style.css */
+
 body {
-  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  font-family: 'Arial', sans-serif;
+  background: #f0f0f0;
   text-align: center;
-  background-color: #f9f9f9;
 }
 
 header {
-  background-color: #4CAF50;
-  color: white;
-  padding: 50px 20px;
+  margin-top: 50px;
 }
 
-section {
-  padding: 30px 20px;
-}
-
-h2 {
+h1 {
+  font-size: 3rem;
   color: #333;
 }
 
-.projects ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.projects li {
-  background-color: #eee;
-  margin: 10px;
-  padding: 10px;
+.bx {
+  font-size: 50px;
+  color: #555;
+  margin-top: 20px;
 }
