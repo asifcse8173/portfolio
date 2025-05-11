@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -148,10 +149,7 @@ footer {
 .image{
 height: 300px;
 width: 270px;
-background-color: #f4f4f4;
 background-image: url("black.png");
 background-size:contain;
 border-radius: 400px;
-background-origin: 5px;
-margin-left:  0px;
 }
